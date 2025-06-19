@@ -1,0 +1,251 @@
+Year,Player,Wins,Team,League
+1901,Cy Young,33.0,Boston,AL
+1901,Bill Donovan,25.0,Brooklyn,NL
+1902,Cy Young,32.0,Boston,AL
+1902,Jack Chesbro,28.0,Pittsburgh,NL
+1903,Cy Young,28.0,Boston,AL
+1903,Joe McGinnity,31.0,New York,NL
+1904,Jack Chesbro,41.0,New York,AL
+1904,Joe McGinnity,35.0,New York,NL
+1905,Rube Waddell,27.0,Philadelphia,AL
+1905,Christy Mathewson,31.0,New York,NL
+1906,Al Orth,27.0,New York,AL
+1906,Joe McGinnity,27.0,New York,NL
+1907,Addie Joss,27.0,Cleveland,AL
+1907,Christy Mathewson,24.0,New York,NL
+1908,Ed Walsh,40.0,Chicago,AL
+1908,Christy Mathewson,37.0,New York,NL
+1909,George Mullin,29.0,Detroit,AL
+1909,Mordecai Brown,27.0,Chicago,NL
+1910,Jack Coombs,31.0,Philadelphia,AL
+1910,Christy Mathewson,27.0,New York,NL
+1911,Jack Coombs,28.0,Philadelphia,AL
+1911,Grover Alexander,28.0,Philadelphia,NL
+1912,Joe Wood,34.0,Boston,AL
+1912,Larry Cheney,26.0,Chicago,NL
+1913,Walter Johnson,36.0,Washington,AL
+1913,Tom Seaton,27.0,Philadelphia,NL
+1914,Walter Johnson,28.0,Washington,AL
+1914,Grover Alexander,27.0,Philadelphia,NL
+1915,Walter Johnson,27.0,Washington,AL
+1915,Grover Alexander,31.0,Philadelphia,NL
+1916,Walter Johnson,25.0,Washington,AL
+1916,Grover Alexander,33.0,Philadelphia,NL
+1917,Eddie Cicotte,28.0,Chicago,AL
+1917,Grover Alexander,30.0,Philadelphia,NL
+1918,Walter Johnson,23.0,Washington,AL
+1918,Hippo Vaughn,22.0,Chicago,NL
+1919,Eddie Cicotte,29.0,Chicago,AL
+1919,Jesse Barnes,25.0,New York,NL
+1920,Jim Bagby,31.0,Cleveland,AL
+1920,Grover Alexander,27.0,Chicago,NL
+1921,Carl Mays,27.0,New York,AL
+1921,Wilbur Cooper,22.0,Pittsburgh,NL
+1922,Eddie Rommel,27.0,Philadelphia,AL
+1922,Eppa Rixey,25.0,Cincinnati,NL
+1923,George Uhle,26.0,Cleveland,AL
+1923,Dolf Luque,27.0,Cincinnati,NL
+1924,Walter Johnson,23.0,Washington,AL
+1924,Dazzy Vance,28.0,Brooklyn,NL
+1925,Ted Lyons,21.0,Chicago,AL
+1925,Dazzy Vance,22.0,Brooklyn,NL
+1926,George Uhle,27.0,Cleveland,AL
+1926,Pete Donohue,20.0,Cincinnati,NL
+1927,Waite Hoyt,22.0,New York,AL
+1927,Charlie Root,26.0,Chicago,NL
+1928,Lefty Grove,24.0,Philadelphia,AL
+1928,Larry Benton,25.0,New York,NL
+1929,George Earnshaw,24.0,Philadelphia,AL
+1929,Pat Malone,22.0,Chicago,NL
+1930,Lefty Grove,28.0,Philadelphia,AL
+1930,Ray Kremer,20.0,Pittsburgh,NL
+1931,Lefty Grove,31.0,Philadelphia,AL
+1931,Jumbo Elliott,19.0,Philadelphia,NL
+1932,Alvin Crowder,26.0,Washington,AL
+1932,Lon Warneke,22.0,Chicago,NL
+1933,Alvin Crowder,24.0,Washington,AL
+1933,Carl Hubbell,23.0,New York,NL
+1934,Lefty Gomez,26.0,New York,AL
+1934,Dizzy Dean,30.0,St. Louis,NL
+1935,Wes Ferrell,25.0,Boston,AL
+1935,Dizzy Dean,28.0,St. Louis,NL
+1936,Tommy Bridges,23.0,Detroit,AL
+1936,Carl Hubbell,26.0,New York,NL
+1937,Lefty Gomez,21.0,New York,AL
+1937,Carl Hubbell,22.0,New York,NL
+1938,Red Ruffing,21.0,New York,AL
+1938,Bill Lee,22.0,Chicago,NL
+1939,Bob Feller,24.0,Cleveland,AL
+1939,Bucky Walters,27.0,Cincinnati,NL
+1940,Bob Feller,27.0,Cleveland,AL
+1940,Bucky Walters,22.0,Cincinnati,NL
+1941,Bob Feller,25.0,Cleveland,AL
+1941,Kirby Higbe,22.0,Brooklyn,NL
+1942,Tex Hughson,22.0,Boston,AL
+1942,Mort Cooper,22.0,St. Louis,NL
+1943,Spud Chandler,20.0,New York,AL
+1943,Mort Cooper,21.0,St. Louis,NL
+1944,Hal Newhouser,29.0,Detroit,AL
+1944,Bucky Walters,23.0,Cincinnati,NL
+1945,Hal Newhouser,25.0,Detroit,AL
+1945,Red Barrett,23.0,Boston,NL
+1946,Bob Feller,26.0,Cleveland,AL
+1946,Howie Pollet,21.0,St. Louis,NL
+1947,Bob Feller,20.0,Cleveland,AL
+1947,Ewell Blackwell,22.0,Cincinnati,NL
+1948,Hal Newhouser,21.0,Detroit,AL
+1948,Johnny Sain,24.0,Boston,NL
+1949,Mel Parnell,25.0,Boston,AL
+1949,Warren Spahn,21.0,Boston,NL
+1950,Bob Lemon,23.0,Cleveland,AL
+1950,Warren Spahn,21.0,Boston,NL
+1951,Bob Feller,22.0,Cleveland,AL
+1951,Larry Jansen,23.0,New York,NL
+1952,Bobby Shantz,24.0,Philadelphia,AL
+1952,Robin Roberts,28.0,Philadelphia,NL
+1953,Bob Porterfield,22.0,Washington,AL
+1953,Robin Roberts,23.0,Philadelphia,NL
+1954,Bob Lemon,23.0,Cleveland,AL
+1954,Robin Roberts,23.0,Philadelphia,NL
+1955,Whitey Ford,18.0,New York,AL
+1955,Robin Roberts,23.0,Philadelphia,NL
+1956,Frank Lary,21.0,Detroit,AL
+1956,Don Newcombe,27.0,Brooklyn,NL
+1957,Jim Bunning,20.0,Detroit,AL
+1957,Warren Spahn,21.0,Milwaukee,NL
+1958,Bob Turley,21.0,New York,AL
+1958,Bob Friend,22.0,Pittsburgh,NL
+1959,Early Wynn,22.0,Chicago,AL
+1959,Lew Burdette,21.0,Milwaukee,NL
+1960,Chuck Estrada,18.0,Baltimore,AL
+1960,Ernie Broglio,21.0,St. Louis,NL
+1961,Whitey Ford,25.0,New York,AL
+1961,Joey Jay,21.0,Cincinnati,NL
+1962,Ralph Terry,23.0,New York,AL
+1962,Don Drysdale,25.0,Los Angeles,NL
+1963,Whitey Ford,24.0,New York,AL
+1963,Sandy Koufax,25.0,Los Angeles,NL
+1964,Dean Chance,20.0,Los Angeles,AL
+1964,Larry Jackson,24.0,Chicago,NL
+1965,Mudcat Grant,21.0,Minnesota,AL
+1965,Sandy Koufax,26.0,Los Angeles,NL
+1966,Jim Kaat,25.0,Minnesota,AL
+1966,Sandy Koufax,27.0,Los Angeles,NL
+1967,Jim Lonborg,22.0,Boston,AL
+1967,Mike McCormick,22.0,San Francisco,NL
+1968,Denny McLain,31.0,Detroit,AL
+1968,Juan Marichal,26.0,San Francisco,NL
+1969,Denny McLain,24.0,Detroit,AL
+1969,Tom Seaver,25.0,New York,NL
+1970,Mike Cuellar,24.0,Baltimore,AL
+1970,Bob Gibson,23.0,St. Louis,NL
+1971,Mickey Lolich,25.0,Detroit,AL
+1971,Fergie Jenkins,24.0,Chicago,NL
+1972,Gaylord Perry,24.0,Cleveland,AL
+1972,Steve Carlton,27.0,Philadelphia,NL
+1973,Wilbur Wood,24.0,Chicago,AL
+1973,Ron Bryant,24.0,San Francisco,NL
+1974,Catfish Hunter,25.0,Oakland,AL
+1974,Andy Messersmith,20.0,Los Angeles,NL
+1975,Catfish Hunter,23.0,New York,AL
+1975,Tom Seaver,22.0,New York,NL
+1976,Jim Palmer,22.0,Baltimore,AL
+1976,Randy Jones,22.0,San Diego,NL
+1977,Dave Goltz,20.0,Minnesota,AL
+1977,Steve Carlton,23.0,Philadelphia,NL
+1978,Ron Guidry,25.0,New York,AL
+1978,Gaylord Perry,21.0,San Diego,NL
+1979,Mike Flanagan,23.0,Baltimore,AL
+1979,Joe Niekro,21.0,Houston,NL
+1980,Steve Stone,25.0,Baltimore,AL
+1980,Steve Carlton,24.0,Philadelphia,NL
+1981,Dennis Martinez,14.0,Baltimore,AL
+1981,Tom Seaver,14.0,Cincinnati,NL
+1982,LaMarr Hoyt,19.0,Chicago,AL
+1982,Steve Carlton,23.0,Philadelphia,NL
+1983,LaMarr Hoyt,24.0,Chicago,AL
+1983,John Denny,19.0,Philadelphia,NL
+1984,Mike Boddicker,20.0,Baltimore,AL
+1984,Joaquin Andujar,20.0,St. Louis,NL
+1985,Ron Guidry,22.0,New York,AL
+1985,Dwight Gooden,24.0,New York,NL
+1986,Roger Clemens,24.0,Boston,AL
+1986,Fernando Valenzuela,21.0,Los Angeles,NL
+1987,Roger Clemens,20.0,Boston,AL
+1987,Rick Sutcliffe,18.0,Chicago,NL
+1988,Frank Viola,24.0,Minnesota,AL
+1988,Orel Hershiser,23.0,Los Angeles,NL
+1989,Bret Saberhagen,23.0,Kansas City,AL
+1989,Mike Scott,20.0,Houston,NL
+1990,Bob Welch,27.0,Oakland,AL
+1990,Doug Drabek,22.0,Pittsburgh,NL
+1991,Scott Erickson,20.0,Minnesota,AL
+1991,Tom Glavine,20.0,Atlanta,NL
+1992,Kevin Brown,21.0,Texas,AL
+1992,Tom Glavine,20.0,Atlanta,NL
+1993,Jack McDowell,22.0,Chicago,AL
+1993,John Burkett,22.0,San Francisco,NL
+1994,Jimmy Key,17.0,New York,AL
+1994,Ken Hill,16.0,Montreal,NL
+1995,Mike Mussina,19.0,Baltimore,AL
+1995,Greg Maddux,19.0,Atlanta,NL
+1996,Andy Pettitte,21.0,New York,AL
+1996,John Smoltz,24.0,Atlanta,NL
+1997,Roger Clemens,21.0,Toronto,AL
+1997,Denny Neagle,20.0,Atlanta,NL
+1998,Roger Clemens,20.0,Toronto,AL
+1998,Tom Glavine,20.0,Atlanta,NL
+1999,Pedro Martinez,23.0,Boston,AL
+1999,Mike Hampton,22.0,Houston,NL
+2000,Tim Hudson,20.0,Oakland,AL
+2000,Tom Glavine,21.0,Atlanta,NL
+2001,Mark Mulder,21.0,Oakland,AL
+2001,Matt Morris,22.0,St. Louis,NL
+2002,Barry Zito,23.0,Oakland,AL
+2002,Randy Johnson,24.0,Arizona,NL
+2003,Roy Halladay,22.0,Toronto,AL
+2003,Russ Ortiz,21.0,Atlanta,NL
+2004,Curt Schilling,21.0,Boston,AL
+2004,Roy Oswalt,20.0,Houston,NL
+2005,Bartolo Colon,21.0,Los Angeles,AL
+2005,Dontrelle Willis,22.0,Florida,NL
+2006,Johan Santana,19.0,Minnesota,AL
+2006,Aaron Harang,16.0,Cincinnati,NL
+2007,Josh Beckett,20.0,Boston,AL
+2007,Jake Peavy,19.0,San Diego,NL
+2008,Cliff Lee,22.0,Cleveland,AL
+2008,Brandon Webb,22.0,Arizona,NL
+2009,Felix Hernández,19.0,Seattle,AL
+2009,Adam Wainwright,19.0,St. Louis,NL
+2010,CC Sabathia,21.0,New York,AL
+2010,Roy Halladay,21.0,Philadelphia,NL
+2011,Justin Verlander,24.0,Detroit,AL
+2011,Ian Kennedy,21.0,Arizona,NL
+2012,David Price,20.0,Tampa Bay,AL
+2012,Gio Gonzalez,21.0,Washington,NL
+2013,Max Scherzer,21.0,Detroit,AL
+2013,Adam Wainwright,19.0,St. Louis,NL
+2014,Corey Kluber,18.0,Cleveland,AL
+2014,Clayton Kershaw,21.0,Los Angeles,NL
+2015,Dallas Keuchel,20.0,Houston,AL
+2015,Jake Arrieta,22.0,Chicago,NL
+2016,Rick Porcello,22.0,Boston,AL
+2016,Max Scherzer,20.0,Washington,NL
+2017,Carlos Carrasco,18.0,Cleveland,AL
+2017,Clayton Kershaw,18.0,Los Angeles,NL
+2018,Blake Snell,21.0,Tampa Bay,AL
+2018,Jon Lester,18.0,Chicago,NL
+2019,Justin Verlander,21.0,Houston,AL
+2019,Stephen Strasburg,18.0,Washington,NL
+2020,Shane Bieber,8.0,Cleveland,AL
+2020,Yu Darvish,8.0,Chicago,NL
+2021,Gerrit Cole,16.0,New York,AL
+2021,Julio Urías,20.0,Los Angeles,NL
+2022,Justin Verlander,18.0,Houston,AL
+2022,Kyle Wright,21.0,Atlanta,NL
+2023,Chris Bassitt,16.0,Toronto,AL
+2023,Spencer Strider,20.0,Atlanta,NL
+2024,Tarik Skubal,18.0,Detroit,AL
+2024,Chris Sale,18.0,Atlanta,NL
+2025,Max Fried,9.0,New York,AL
+2025,Brandon Pfaadt,8.0,Arizona,NL
