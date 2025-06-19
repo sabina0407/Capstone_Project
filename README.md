@@ -8,7 +8,7 @@ The data is scraped using Selenium from Baseball Almanac, cleaned with pandas, s
 
 ## Dashboard Preview
 
-[ Click here to launch the dashboard](https://your-app-url.streamlit.app)
+[ Click here to launch the dashboard](https://capstoneproject-ovapprkln5zkzjxybdguo9c.streamlit.app/)
 
 ![Streamlit Screenshot](streamlit_dashboard.png)
 
